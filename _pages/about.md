@@ -30,4 +30,6 @@ Hi, I'm Ming-Shau Liu, most people call me Ming! I grew up in Taipei and London,
 
 I am a visitor at IAIFI, based at MIT, where I study dark matter using machine learning. Previously, I graduated from the University of Cambridge, where I did the undergraduate Mathematical Tripos with Physics and then the Natural Sciences Tripos Part III. I wrote my Master's thesis on the classification of bosonic dark matter using geometric effective field theory, based on the origin of the dark matter model's mass. I normally teach at the University of Cambridge as a supervisor at DAMTP and the Cavendish Laboratory. 
 
-I previously worked at Cambridge, CERN, and most recently, Harvard with Prof. Argüelles on the constraints of heavy neutral leptons and their implications for the MiniBooNE excess anomaly. 
+I previously worked at Cambridge, CERN, and most recently, Harvard with Prof. Argüelles on the constraints of heavy neutral leptons and their implications for the MiniBooNE excess anomaly. You can find my cv <a href="https://drive.google.com/file/d/1yO_52jUdUL59S395sFhjv023hTGh47eA/view?usp=sharing">here</a>.
+
+Outside physics, I enjoy looking at clouds, reading, developing recipes, and struggling to train for a marathon. 
