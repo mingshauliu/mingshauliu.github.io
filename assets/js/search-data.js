@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Supervision solutions to Part IA, IB, II Mathematical Tripos and Natural Science Tripos (Physics)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
