@@ -2,11 +2,7 @@
 
 Personal site — a lightweight, email-styled page.
 
-Built with Jekyll on GitHub Pages. Content lives in [`index.md`](index.md); styling in [`fuckingstyle.scss`](fuckingstyle.scss).
-
-## Illustration
-
-Illustration in [`/asset/photo.png`](/asset/photo.png).
+Built with Jekyll on GitHub Pages. Content lives in [`index.md`](index.md); styling in [`fuckingstyle.scss`](fuckingstyle.scss); illustration in [`/asset/photo.png`](/asset/photo.png).
 
 ## Credits
 
