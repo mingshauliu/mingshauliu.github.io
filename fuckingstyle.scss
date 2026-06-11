@@ -2,6 +2,7 @@
 ---
 
 body {
+  position: relative;
   max-width: 700px;
   margin: 40px auto;
   padding: 0 10px;
@@ -18,14 +19,14 @@ h3 {
 @media (prefers-color-scheme: dark) {
   body {
     color: #c9d1d9;
-    background: #0d1117;
+    background: #0d1712;
   }
 
   a:link {
-    color: #8e96f0;
+    color: #064200;
   }
   a:visited {
-    color: #8e96f0;
+    color: #064200;
   }
 }
 
@@ -38,9 +39,9 @@ code {
 }
 
 .avatar {
-  position: fixed;
-  right: 20px;
-  bottom: 20px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
   width: 100px;
   height: 100px;
   background-color: currentColor;
