@@ -7,7 +7,8 @@ body {
   margin: 40px auto;
   padding: 0 10px;
   font: 18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  color: #444;
+  color: #2e3b1d;
+  background: #f4f6f0;
 }
 
 h1,
@@ -19,14 +20,14 @@ h3 {
 @media (prefers-color-scheme: dark) {
   body {
     color: #c9d1d9;
-    background: #030806;
+    background: #1c2414;
   }
 
   a:link {
-    color: #064E3B;
+    color: #a4bfa7;
   }
   a:visited {
-    color: #064E3B;
+    color: #a4bfa7;
   }
 }
 
