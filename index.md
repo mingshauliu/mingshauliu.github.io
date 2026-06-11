@@ -19,11 +19,14 @@ And I come from a theoretical background studying [flavour physics](https://ui.a
 Before this, I have a past life in [fluid dynamics](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5432FA07A320FA625FAA94C8C4E51BB5/S0022112023009114a.pdf/div-class-title-shallow-current-of-viscous-fluid-flowing-between-diverging-or-converging-walls-div.pdf).
 
 I will next talk at
+
 - AstroAI Workshop, Center for Astrophysics, Harvard University,
 - SBI4GALEV, IOA, University of Cambridge, and
 - Cosmic Horizons 2, CosmicAI, Charlottesville, VA.
+  
 Come chat with me!
 
 All the best, 
+
 Ming
 
