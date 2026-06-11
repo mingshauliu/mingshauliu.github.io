@@ -6,27 +6,26 @@ description: ML for Science · Deep Learning · Generative Models · 3D Computer
 
 # Ming-Shau Liu
 
-[Contact](mailto:mingshauliu@gmail.com) · [Read](https://scholar.google.com/citations?user=PHQUNHkAAAAJ&hl=en&oi=ao)
+[Contact](mailto:mingshauliu@gmail.com) · [Read](https://scholar.google.com/citations?user=PHQUNHkAAAAJ&hl=en&oi=ao) · [GitHub](https://github.com/mingshauliu)
 
-I am a Miller Fellow at Johns Hopkins University studying machine learning and cosmology. Talk to me about anything physics and any inference problems!
+I am a Miller Fellow at Johns Hopkins University studying machine learning and cosmology. Talk to me about physics and inference problems!
 
-## CV
+## Details
 ### Education
 
-- **2023** MSci in Physics, University of Cambridge
-- **2022** BA in Mathematics with Physics, University of Cambridge
+BA and MSci in Physics from the University of Cambridge
 
-### Projects
+### Interests
 
-- Liu, M.-S., Cuesta-Lazaro, C. (2025) "Continuous Representations of Baryonic Feedback for Robust Inference from Multiple Simulations."  *NeurIPS ML4PS Workshop.*
-- Liu, M.-S., Kamp, N.W., Argüelles, C.A. (2025) "Constraints and Sensitivities for Dipole-Portal Heavy Neutral Leptons from ND280 and Upgrade." *Physical Review D* **112**, 035012.
-- de Medeiros Varzielas, I., Liu, M.-S., Sengupta, A., Talbert, J. (2024) "Residual Symmetries and Scalar Multiplet Vacuum Alignment in Non-Abelian Flavour Models." *Accepted to JHEP.*
-- Liu, M.-S., Huppert, H.E. (2023) "Shallow Current of Viscous Fluid Flowing between Diverging or Converging Walls." *Journal of Fluid Mechanics* **977**, A23.
+I am interested in [representationa learning](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_362.pdf) and cosmology.
+I have explored some dark matter theories through [neutrino simulations](https://journals.aps.org/prd/pdf/10.1103/5738-hj4s). 
+And I come from a theoretical background studying [flavour physics](https://ui.adsabs.harvard.edu/abs/2025arXiv251219789D/abstract) and what it means to write down an [effective theory](https://repository.cern/records/35dxa-9aw12). 
+Before this, I have a past life in [fluid dynamics](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5432FA07A320FA625FAA94C8C4E51BB5/S0022112023009114a.pdf/div-class-title-shallow-current-of-viscous-fluid-flowing-between-diverging-or-converging-walls-div.pdf).
 
 ### Selected Talks
 
-- **2025** Invited Spotlight Talk, Machine Learning for Physical Sciences @ NeurIPS
-- **2025** AstroAI Seminar, Center for Astrophysics, Harvard University
-- **2025** ML × Cosmology Talk, Center for Computational Astrophysics, Flatiron Institute
-- **2024** Pheno. Talk, APS Division of Particles and Fields, University of Pittsburgh
+**2025** Invited Spotlight Talk, Machine Learning for Physical Sciences @ NeurIPS
+**2025** AstroAI Seminar, Center for Astrophysics, Harvard University
+**2025** ML × Cosmology Talk, Center for Computational Astrophysics, Flatiron Institute
+**2024** Pheno. Talk, APS Division of Particles and Fields, University of Pittsburgh
 
