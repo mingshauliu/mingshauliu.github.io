@@ -26,7 +26,6 @@ I will next talk at
   
 Come chat with me!
 
-All the best, 
-
+All the best,     
 Ming
 
