@@ -6,7 +6,7 @@ description: ML for Science · Deep Learning · Generative Models · 3D Computer
 
 # Ming-Shau Liu
 
-[Contact](mailto:mingshauliu@gmail.com) | [Read](https://scholar.google.com/citations?user=PHQUNHkAAAAJ&hl=en&oi=ao)
+[Contact](mailto:mingshauliu@gmail.com) · [Read](https://scholar.google.com/citations?user=PHQUNHkAAAAJ&hl=en&oi=ao)
 
 I am a Miller Fellow at Johns Hopkins University studying machine learning and cosmology. Talk to me about anything physics and any inference problems!
 
