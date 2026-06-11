@@ -4,6 +4,8 @@ title: Ming-Shau Liu
 description: ML for Science · Deep Learning · Generative Models · 3D Computer Vision
 ---
 
+<img src="/asset/photo.png" alt="Illustration of a duck wearing a propeller hat" class="avatar">
+
 # Ming-Shau Liu
 
 [Contact](mailto:mingshauliu@gmail.com) · [Read](https://scholar.google.com/citations?user=PHQUNHkAAAAJ&hl=en&oi=ao) · [GitHub](https://github.com/mingshauliu)
