@@ -22,7 +22,10 @@ h3 {
   }
 
   a:link {
-    color: #58a6ff;
+    color: #8e96f0;
+  }
+  a:visited {
+    color: #8e96f0;
   }
 }
 
@@ -30,10 +33,25 @@ a {
     text-decoration: none;
 }
 
+code {
+  font-size: 0.85em;
+}
+
 .avatar {
-  float: right;
-  width: 110px;
-  height: 110px;
-  margin: 0 0 1em 1.5em;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  width: 100px;
+  height: 100px;
+  background-color: currentColor;
+  -webkit-mask: url("/asset/photo.png") no-repeat center / contain;
+  mask: url("/asset/photo.png") no-repeat center / contain;
+}
+
+@media (max-width: 600px) {
+  .avatar {
+    width: 60px;
+    height: 60px;
+  }
 }
 
