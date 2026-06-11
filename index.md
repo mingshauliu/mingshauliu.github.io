@@ -30,7 +30,7 @@ AI for Science · Deep Learning · Generative Models · 3D Computer Vision
 
 - **2025** Continuous Representations of Baryonic Feedback for Robust Inference from Multiple Simulations. Liu, M.-S., Cuesta-Lazaro, C. *NeurIPS ML4PS Workshop.*
 - **2025** Constraints and Sensitivities for Dipole-Portal Heavy Neutral Leptons from ND280 and Upgrade. Liu, M.-S., Kamp, N.W., Argüelles, C.A. *Physical Review D* **112**, 035012.
-- **2024** Residual Symmetries and Scalar Multiplet Vacuum Alignment in Non-Abelian Flavour Models. de Medeiros Varzielas, I., Liu, M.-S., Sengupta, A., Talbert, J. *Submitted to JHEP.*
+- **2024** Residual Symmetries and Scalar Multiplet Vacuum Alignment in Non-Abelian Flavour Models. de Medeiros Varzielas, I., Liu, M.-S., Sengupta, A., Talbert, J. *Accepted to JHEP.*
 - **2023** Shallow Current of Viscous Fluid Flowing between Diverging or Converging Walls. Liu, M.-S., Huppert, H.E. *Journal of Fluid Mechanics* **977**, A23.
 
 ## Selected Talks
