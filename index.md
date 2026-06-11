@@ -6,7 +6,7 @@ description: ML for Science · Deep Learning · Generative Models · 3D Computer
 
 # Ming-Shau Liu
 
-[Contact](mailto:mingshauliu@gmail.com) · [Read](https://scholar.google.com/citations?user=PHQUNHkAAAAJ&hl=en&oi=ao) · [GitHub](https://github.com/mingshauliu)
+[Contact](mailto:mliu165@jh.edu) · [Read](https://scholar.google.com/citations?user=PHQUNHkAAAAJ&hl=en&oi=ao) · [GitHub](https://github.com/mingshauliu)
 
 I am a PhD student at Johns Hopkins University studying machine learning and cosmology. 
 Talk to me about physics and inference problems!
