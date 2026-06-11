@@ -17,7 +17,7 @@ I have explored some dark matter theories through [neutrino simulations](https:/
 And I come from a theoretical background studying [flavour physics](https://ui.adsabs.harvard.edu/abs/2025arXiv251219789D/abstract) and what it means to write down an [effective theory](https://repository.cern/records/35dxa-9aw12). 
 Before this, I have a past life in [fluid dynamics](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5432FA07A320FA625FAA94C8C4E51BB5/S0022112023009114a.pdf/div-class-title-shallow-current-of-viscous-fluid-flowing-between-diverging-or-converging-walls-div.pdf).
 
-I talk a lot
+### I talk a lot
 
 **2026** Cosmic Horizons 2, CosmicAI, Charlottesville, VA
 SBI4GALEV, Institute of Astronomy, University of Cambridge
